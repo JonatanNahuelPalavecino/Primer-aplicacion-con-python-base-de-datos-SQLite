@@ -1,0 +1,10 @@
+#cur.execute("SELECT * FROM clientes")
+
+# cur.fetchall()
+# cur.fetchone()
+# cur.fetchmany(3)
+
+# registros = cur.fetchall()
+
+# for dato in registros:
+#     print(dato)
